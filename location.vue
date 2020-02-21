@@ -17,7 +17,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <!--<div v-if="main" v-html="main.body"></div>-->
-                            <p><strong>In the heart of Long Beach, The Long Beach Towne Center is located at 7575 Carson Blvd, Long Beach, CA 90808</strong></p>
+                            <p><strong>In the heart of Twin Pines, Lauras Mall is located at 7575 Carson Blvd, Long Beach, CA 90808</strong></p>
                         </div>
                     </div>
                 </div>
