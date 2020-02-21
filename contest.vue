@@ -71,7 +71,7 @@
                                         </label>
         						    </div>
         						    <div class="col-xs-12">
-        						        <p>For more details about personal privacy, please read our <a href="/pages/laurasmall-privacy-policy" target="_blank">Privacy Policy</a>.</p>
+        						        <p>For more details about personal privacy, please read our <a href="/pages/laurasmall-privacy-policy.json" target="_blank">Privacy Policy</a>.</p>
                                     </div>
                                 </div>
                                 <div class="form-group">
