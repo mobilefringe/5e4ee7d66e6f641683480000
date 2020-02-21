@@ -205,12 +205,12 @@
                     }
                     
                     subcategories = _.map(subcategories, 'name').sort();
-                    subcategories.unshift('Burgers');
+                    subcategories.unshift('All Cuisine');
                     return subcategories;
                 },
                 filterByCategory() {
                     category_id = this.selectedCat;
-                    if (category_id == "Burgers" || category_id == null || category_id == undefined) {
+                    if (category_id == "All Cuisine" || category_id == null || category_id == undefined) {
                         category_id = "All";
                     } else {
                         category_id = this.findSubcategoryByName(category_id).id;
